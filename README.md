@@ -2,7 +2,7 @@
 
 # 🧠 Quantum Foundations & Frontiers
 
-A curated collection of foundational and modern papers in quantum physics, organized by topic and timeline.
+This repository reflects my personal journey through the key ideas and turning points in the history of quantum physics. It began when I was 13 years old, studying physics on my own — a curiosity that has grown into a lifelong exploration. Each paper included here shaped the way we understand the quantum world — and continues to inspire new questions.
 
 📂 Each article includes:
 - A structured reference with title, authors, and source link
@@ -30,11 +30,4 @@ A curated collection of foundational and modern papers in quantum physics, organ
 
 Browse papers by concept in [`docs/tags.md`](docs/tags.md)
 
----
 
-## 🌐 GitHub Pages version
-
-📘 Explore the formatted site:  
-[https://yourusername.github.io/quantum-foundations-frontiers/](https://yourusername.github.io/quantum-foundations-frontiers/)
-
-> _"Understanding the history of quantum thought is key to shaping its future."_

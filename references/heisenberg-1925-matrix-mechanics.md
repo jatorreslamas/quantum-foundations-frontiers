@@ -4,13 +4,13 @@ authors: ['Werner Heisenberg']
 year: 1925
 category: "Foundational"
 tags: [matrix-mechanics, quantum-formalism]
-source: "https://github.com/yousbot/Quantum-Papers/blob/master/1925%20-%20W.%20Heisenberg%2C%20Quantum-Theoretical%20Re-interpretation%20of%20Kinematic%20and%20Mechanical%20Relations.pdf"
+source: "https://link.springer.com/article/10.1007/BF01328377"
 ---
 
 # Quantum-Theoretical Re-interpretation of Kinematic and Mechanical Relations (1925)
 
 - **Authors**: Werner Heisenberg  
-- **Link**: [Read Article](https://github.com/yousbot/Quantum-Papers/blob/master/1925%20-%20W.%20Heisenberg%2C%20Quantum-Theoretical%20Re-interpretation%20of%20Kinematic%20and%20Mechanical%20Relations.pdf)  
+- **Link**: [Read Article](https://link.springer.com/article/10.1007/BF01328377)  
 - **Tags**: `matrix-mechanics`, `quantum-formalism`
 
 ## Summary

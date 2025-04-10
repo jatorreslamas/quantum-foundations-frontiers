@@ -1,18 +1,18 @@
 ---
-title: "Shor's Algorithm"
+title: "Algorithms for Quantum Computation: Discrete Logarithms and Factoring"
 authors: ['Peter W. Shor']
 year: 1994
 category: "Quantum Computation"
 tags: [factoring, cryptography, quantum-algorithms]
-source: "https://doi.org/10.1109/SFCS.1994.365700"
+source: "https://arxiv.org/pdf/quant-ph/9508027"
 ---
 
-# Shor's Algorithm (1994)
+# Algorithms for Quantum Computation: Discrete Logarithms and Factoring (1994)
 
 - **Authors**: Peter W. Shor  
-- **Link**: [Read Article](https://doi.org/10.1109/SFCS.1994.365700)  
+- **Link**: [Read Article](https://arxiv.org/pdf/quant-ph/9508027)  
 - **Tags**: `factoring`, `cryptography`, `quantum-algorithms`
 
 ## Summary
 
-Shor's algorithm demonstrated that quantum computers can efficiently factor large integers, breaking RSA encryption. It is one of the most important practical results in quantum computing.
+Shor's algorithm demonstrated that quantum computers can efficiently factor large integers, breaking RSA encryption.

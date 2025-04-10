@@ -4,13 +4,13 @@ authors: ['Erwin Schrödinger']
 year: 1926
 category: "Foundational"
 tags: [wave-mechanics, schrodinger-equation]
-source: "https://github.com/yousbot/Quantum-Papers/blob/master/1926%20-%20E.%20Schrodinger%2C%20An%20Undulatory%20Theory%20of%20the%20Mechanics%20of%20Atoms%20and%20Molecules.pdf"
+source: "https://link.aps.org/doi/10.1103/PhysRev.28.1049"
 ---
 
 # An Undulatory Theory of the Mechanics of Atoms and Molecules (1926)
 
 - **Authors**: Erwin Schrödinger  
-- **Link**: [Read Article](https://github.com/yousbot/Quantum-Papers/blob/master/1926%20-%20E.%20Schrodinger%2C%20An%20Undulatory%20Theory%20of%20the%20Mechanics%20of%20Atoms%20and%20Molecules.pdf)  
+- **Link**: [Read Article](https://link.aps.org/doi/10.1103/PhysRev.28.1049)  
 - **Tags**: `wave-mechanics`, `schrodinger-equation`
 
 ## Summary

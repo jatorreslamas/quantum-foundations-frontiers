@@ -1,16 +1,16 @@
 ---
-title: "On the Constitution of Atoms and Molecules (Part I)"
+title: "On the Constitution of Atoms and Molecules"
 authors: ['Niels Bohr']
 year: 1913
 category: "Foundational"
 tags: [atomic-model, quantum-orbits, hydrogen]
-source: "https://github.com/yousbot/Quantum-Papers/blob/master/1913%20-%20N.%20Bohrs%2C%20On%20the%20Constitution%20of%20Atoms%20and%20Molecules%20I.pdf"
+source: "https://nature.berkeley.edu/garbelottoat/wp-content/uploads/bohr1913.pdf"
 ---
 
-# On the Constitution of Atoms and Molecules (Part I) (1913)
+# On the Constitution of Atoms and Molecules (1913)
 
 - **Authors**: Niels Bohr  
-- **Link**: [Read Article](https://github.com/yousbot/Quantum-Papers/blob/master/1913%20-%20N.%20Bohrs%2C%20On%20the%20Constitution%20of%20Atoms%20and%20Molecules%20I.pdf)  
+- **Link**: [Read Article](https://nature.berkeley.edu/garbelottoat/wp-content/uploads/bohr1913.pdf)  
 - **Tags**: `atomic-model`, `quantum-orbits`, `hydrogen`
 
 ## Summary

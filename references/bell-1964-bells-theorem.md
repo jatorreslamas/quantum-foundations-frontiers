@@ -1,18 +1,18 @@
 ---
-title: "Bell's Theorem"
+title: "On the Einstein Podolsky Rosen Paradox"
 authors: ['John S. Bell']
 year: 1964
 category: "Foundational"
 tags: [bell-inequality, nonlocality, hidden-variables]
-source: "https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf"
+source: "https://link.aps.org/doi/10.1103/PhysicsPhysiqueFizika.1.195"
 ---
 
-# Bell's Theorem (1964)
+# On the Einstein Podolsky Rosen Paradox (1964)
 
 - **Authors**: John S. Bell  
-- **Link**: [Read Article](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf)  
+- **Link**: [Read Article](https://link.aps.org/doi/10.1103/PhysicsPhysiqueFizika.1.195)  
 - **Tags**: `bell-inequality`, `nonlocality`, `hidden-variables`
 
 ## Summary
 
-Bell's theorem proves that no local hidden variable theory can reproduce all the predictions of quantum mechanics. It provided a testable distinction between classical and quantum models of reality.
+Bell's theorem proves that no local hidden variable theory can reproduce all the predictions of quantum mechanics.

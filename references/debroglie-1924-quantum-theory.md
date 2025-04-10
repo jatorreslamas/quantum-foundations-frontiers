@@ -4,13 +4,13 @@ authors: ['Louis de Broglie']
 year: 1924
 category: "Foundational"
 tags: [wave-particle-duality, matter-waves]
-source: "https://github.com/yousbot/Quantum-Papers/blob/master/1924%20-%20L.%20De%20Broglie%2C%20Recherches%20sur%20la%20th%C3%A9orie%20des%20quanta.pdf"
+source: "https://theses.hal.science/tel-00006807/document"
 ---
 
 # Recherches sur la théorie des quanta (1924)
 
 - **Authors**: Louis de Broglie  
-- **Link**: [Read Article](https://github.com/yousbot/Quantum-Papers/blob/master/1924%20-%20L.%20De%20Broglie%2C%20Recherches%20sur%20la%20th%C3%A9orie%20des%20quanta.pdf)  
+- **Link**: [Read Article](https://theses.hal.science/tel-00006807/document)  
 - **Tags**: `wave-particle-duality`, `matter-waves`
 
 ## Summary

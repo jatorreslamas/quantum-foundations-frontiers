@@ -4,13 +4,13 @@ authors: ['Albert Einstein']
 year: 1905
 category: "Foundational"
 tags: [photoelectric-effect, quantum-light, photons]
-source: "https://github.com/yousbot/Quantum-Papers/blob/master/1905%20-%20A.%20Einstein%2C%20On%20a%20Heuristic%20Point%20of%20View%20about%20the%20Creation%20and%20Conversion%20of%20Light.pdf"
+source: "https://inters.org/files/einstein1905_photoeff.pdf"
 ---
 
 # On a Heuristic Point of View about the Creation and Conversion of Light (1905)
 
 - **Authors**: Albert Einstein  
-- **Link**: [Read Article](https://github.com/yousbot/Quantum-Papers/blob/master/1905%20-%20A.%20Einstein%2C%20On%20a%20Heuristic%20Point%20of%20View%20about%20the%20Creation%20and%20Conversion%20of%20Light.pdf)  
+- **Link**: [Read Article](https://inters.org/files/einstein1905_photoeff.pdf)  
 - **Tags**: `photoelectric-effect`, `quantum-light`, `photons`
 
 ## Summary

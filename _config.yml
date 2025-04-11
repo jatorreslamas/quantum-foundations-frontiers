@@ -3,4 +3,4 @@ description: A curated collection of historical and modern quantum physics paper
 theme: just-the-docs
 color_scheme: light
 search_enabled: true
-baseurl: ""
+baseurl: "/quantum-foundations-frontiers"

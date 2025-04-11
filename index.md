@@ -16,4 +16,5 @@ Welcome to **Quantum Foundations & Frontiers** — a curated journey through the
 
 ---
 
-> _“Understanding the history of quantum thought is key to shaping its future.”_
+> _“Understanding the history of quantum thought is key to shaping its future.”_ 
+> 

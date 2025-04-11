@@ -1,10 +1,8 @@
 ---
-title: "Recherches sur la théorie des quanta"
-authors: ['Louis de Broglie']
-year: 1924
-category: "Foundational"
-tags: [wave-particle-duality, matter-waves]
-source: "https://theses.hal.science/tel-00006807/document"
+layout: default
+title: "Louis de Broglie – Recherches sur la théorie des quanta (1924)"
+parent: Foundational
+nav_order: 104
 ---
 
 # Recherches sur la théorie des quanta (1924)

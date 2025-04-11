@@ -1,10 +1,8 @@
 ---
-title: "Algorithms for Quantum Computation: Discrete Logarithms and Factoring"
-authors: ['Peter W. Shor']
-year: 1994
-category: "Quantum Computation"
-tags: [factoring, cryptography, quantum-algorithms]
-source: "https://arxiv.org/pdf/quant-ph/9508027"
+layout: default
+title: "Peter W. Shor – Algorithms for Quantum Computation: Discrete Logarithms and Factoring (1994)"
+parent: Quantum Computation
+nav_order: 210
 ---
 
 # Algorithms for Quantum Computation: Discrete Logarithms and Factoring (1994)

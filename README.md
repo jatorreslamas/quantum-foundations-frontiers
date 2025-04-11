@@ -1,44 +1,45 @@
-![Quantum Foundations & Frontiers](assets/quantum-foundations-frontiers.png)
-
 # 🧠 Quantum Foundations & Frontiers
 
-This repository reflects my personal journey through the key ideas and turning points in the history of quantum physics. It began when I was 13 years old, studying physics on my own — a curiosity that has grown into a lifelong exploration. Each paper included here shaped the way we understand the quantum world — and continues to inspire new questions.
+This repository is a curated library of foundational and modern papers in quantum physics.  
+It reflects a personal journey that began at age 13, studying physics independently, and evolved into a structured exploration of the ideas that shaped the quantum world.
 
-📂 Each article includes:
-- A structured reference with title, authors, and source link
-- A summary to contextualize the contribution
-- Tags and categories for thematic navigation
-
----
-
-## 📜 Articles by Category
-
-### Foundational
-- [On the Law of Distribution of Energy in the Normal Spectrum (1900)](references/planck-1900-distribution-law.md)
-- [On a Heuristic Point of View about the Creation and Conversion of Light (1905)](references/einstein-1905-photoelectric-effect.md)
-- [On the Constitution of Atoms and Molecules (1913)](references/bohr-1913-constitution-of-atoms.md)
-- [Recherches sur la théorie des quanta (1924)](references/debroglie-1924-quantum-theory.md)
-- [Quantum-Theoretical Re-interpretation of Kinematic and Mechanical Relations (1925)](references/heisenberg-1925-matrix-mechanics.md)
-- [An Undulatory Theory of the Mechanics of Atoms and Molecules (1926)](references/schrodinger-1926-wave-theory.md)
-- [The Actual Content of Quantum Theoretical Kinematics and Mechanics (1927)](references/heisenberg-1927-uncertainty.md)
-- [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete? (1935)](references/einstein-1935-epr-paradox.md)
-- [On the Einstein Podolsky Rosen Paradox (1964)](references/bell-1964-bells-theorem.md)
-
-### Quantum Computation
-- [Algorithms for Quantum Computation: Discrete Logarithms and Factoring (1994)](references/shor-1994-shors-algorithm.md)
-
+📘 Explore the live site:  
+➡️ [https://jatorreslamas.github.io/quantum-foundations-frontiers/](https://jatorreslamas.github.io/quantum-foundations-frontiers/)
 
 ---
 
-## 🏷 Tags
+## 📚 Structure
 
-Browse papers by concept in [`docs/tags.md`](docs/tags.md)
+This repository is powered by [Just the Docs](https://just-the-docs.github.io/just-the-docs/), enabling:
+
+- Sidebar navigation by category and chronology
+- Tag-based grouping via Markdown front matter
+- Auto-rendered pages for each article with full metadata
+- Full-text search across documents
 
 ---
 
-## 🌐 GitHub Pages version
+## 🗂 How to Contribute or Extend
 
-📘 Explore the formatted site:  
-[https://yourusername.github.io/quantum-foundations-frontiers/](https://yourusername.github.io/quantum-foundations-frontiers/)
+New references can be added by placing `.md` files in the `references/` folder.  
+Each file should contain appropriate front matter:
 
-> _"Understanding the history of quantum thought is key to shaping its future."_
+```yaml
+---
+layout: default
+title: "Author – Title (Year)"
+parent: Foundational
+nav_order: 10
+---
+```
+
+> A future AI agent (MCP-connected) will automate this process: uploading, formatting and structuring new entries.
+
+---
+
+## 💬 About
+
+Developed and maintained by [@jatorreslamas](https://github.com/jatorreslamas)  
+Chief Scientist Officer @ Altoro Analytics  
+Physicist & AI advisor for business transformation
+

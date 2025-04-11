@@ -1,10 +1,8 @@
 ---
-title: "On the Einstein Podolsky Rosen Paradox"
-authors: ['John S. Bell']
-year: 1964
-category: "Foundational"
-tags: [bell-inequality, nonlocality, hidden-variables]
-source: "https://link.aps.org/doi/10.1103/PhysicsPhysiqueFizika.1.195"
+layout: default
+title: "John S. Bell – On the Einstein Podolsky Rosen Paradox (1964)"
+parent: Foundational
+nav_order: 109
 ---
 
 # On the Einstein Podolsky Rosen Paradox (1964)

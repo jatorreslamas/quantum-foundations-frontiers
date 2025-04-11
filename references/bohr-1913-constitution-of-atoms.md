@@ -1,10 +1,8 @@
 ---
-title: "On the Constitution of Atoms and Molecules"
-authors: ['Niels Bohr']
-year: 1913
-category: "Foundational"
-tags: [atomic-model, quantum-orbits, hydrogen]
-source: "https://nature.berkeley.edu/garbelottoat/wp-content/uploads/bohr1913.pdf"
+layout: default
+title: "Niels Bohr – On the Constitution of Atoms and Molecules (1913)"
+parent: Foundational
+nav_order: 103
 ---
 
 # On the Constitution of Atoms and Molecules (1913)

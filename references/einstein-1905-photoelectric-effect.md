@@ -1,10 +1,8 @@
 ---
-title: "On a Heuristic Point of View about the Creation and Conversion of Light"
-authors: ['Albert Einstein']
-year: 1905
-category: "Foundational"
-tags: [photoelectric-effect, quantum-light, photons]
-source: "https://inters.org/files/einstein1905_photoeff.pdf"
+layout: default
+title: "Albert Einstein – On a Heuristic Point of View about the Creation and Conversion of Light (1905)"
+parent: Foundational
+nav_order: 102
 ---
 
 # On a Heuristic Point of View about the Creation and Conversion of Light (1905)

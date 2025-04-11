@@ -1,10 +1,8 @@
 ---
-title: "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?"
-authors: ['Albert Einstein', 'Boris Podolsky', 'Nathan Rosen']
-year: 1935
-category: "Foundational"
-tags: [entanglement, realism, locality]
-source: "https://link.aps.org/doi/10.1103/PhysRev.47.777"
+layout: default
+title: "Albert Einstein, Boris Podolsky, Nathan Rosen – Can Quantum-Mechanical Description of Physical Reality Be Considered Complete? (1935)"
+parent: Foundational
+nav_order: 108
 ---
 
 # Can Quantum-Mechanical Description of Physical Reality Be Considered Complete? (1935)

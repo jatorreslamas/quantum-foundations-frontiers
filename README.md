@@ -41,5 +41,5 @@ nav_order: 10
 
 Developed and maintained by [@jatorreslamas](https://github.com/jatorreslamas)  
 Chief Scientist Officer @ Altoro Analytics  
-Physicist & AI advisor for business transformation
+Physicist & AI advisor
 
